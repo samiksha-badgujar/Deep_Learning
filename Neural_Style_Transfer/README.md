@@ -1,4 +1,3 @@
-![Screenshot 2024-02-10 at 12 04 51 AM](https://github.com/samiksha-badgujar/Deep_Learning/assets/126308884/82cbed73-14bb-409d-b01a-f361ceb24aa4)# Neural Style Transfer using TensorFlow
 
 ## Introduction
 
