@@ -1,4 +1,4 @@
-# Neural Style Transfer using TensorFlow
+![Screenshot 2024-02-10 at 12 04 51 AM](https://github.com/samiksha-badgujar/Deep_Learning/assets/126308884/82cbed73-14bb-409d-b01a-f361ceb24aa4)# Neural Style Transfer using TensorFlow
 
 ## Introduction
 
@@ -28,6 +28,9 @@ Following are the input sample images for creating a neural style transfer image
 
 ![Screenshot 2024-02-09 at 11 47 49 PM](https://github.com/samiksha-badgujar/Deep_Learning/assets/126308884/6f570312-a39c-4bb9-9cae-958766348ce1)
 
-![Uploading Screenshot 2024-02-10 at 12.04.51 AM.png…]()
+
+![Screenshot 2024-02-09 at 11 47 49 PM](https://github.com/samiksha-badgujar/Deep_Learning/assets/126308884/fa3ef67e-afd7-4f28-a6b6-4d7ce42a4da2)
+
+
 
 
