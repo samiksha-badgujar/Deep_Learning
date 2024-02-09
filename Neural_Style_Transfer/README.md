@@ -28,8 +28,11 @@ Following are the input sample images for creating a neural style transfer image
 
 ![Screenshot 2024-02-09 at 11 47 49 PM](https://github.com/samiksha-badgujar/Deep_Learning/assets/126308884/6f570312-a39c-4bb9-9cae-958766348ce1)
 
+![Screenshot 2024-02-10 at 12 04 51 AM](https://github.com/samiksha-badgujar/Deep_Learning/assets/126308884/e6b1ea01-a744-4ce2-83b8-f47eab460367)
 
-![Screenshot 2024-02-09 at 11 47 49 PM](https://github.com/samiksha-badgujar/Deep_Learning/assets/126308884/fa3ef67e-afd7-4f28-a6b6-4d7ce42a4da2)
+
+
+
 
 
 
